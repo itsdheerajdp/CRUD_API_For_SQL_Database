@@ -1,0 +1,9 @@
+└── sql_app
+    ├── __init__.py
+    ├── crud.py
+    ├── database.py
+    ├── main.py
+    ├── models.py
+    └── schemas.py
+
+this should be the structure of sql app where __init__.py will be the empty file
